@@ -10,7 +10,5 @@ public class NQueenProblem {
 		
 		NQueensSolution problem = new NQueensSolution(size);
 		problem.solve();
-
-		System.out.println("Minh Anh is here!");
 	}
 }
